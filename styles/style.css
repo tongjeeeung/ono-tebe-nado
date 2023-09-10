@@ -164,6 +164,10 @@
   color: #fff;
 }
 
+.card-link {
+  text-decoration: none;
+}
+
 .card {
   width: 430px;
   min-height: 450px;
@@ -275,7 +279,6 @@
   align-items: center;
   list-style: none;
   font-size: 18px;
-  padding-left: 50px;
 }
 
 .footer__social-list {
